@@ -1,3 +1,4 @@
+
 # Uncovering Insights and Targeting Strategies
 The data is about customers of the treadmill product(s) of a retail store called Cardio Good Fitness
 
